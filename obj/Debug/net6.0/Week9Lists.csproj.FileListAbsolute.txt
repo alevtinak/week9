@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/Week9List/bin/Debug/net6.0/Week9List
+/Users/alyaklyusheva/Projects/Week9List/bin/Debug/net6.0/Week9List.deps.json
+/Users/alyaklyusheva/Projects/Week9List/bin/Debug/net6.0/Week9List.runtimeconfig.json
+/Users/alyaklyusheva/Projects/Week9List/bin/Debug/net6.0/Week9List.dll
+/Users/alyaklyusheva/Projects/Week9List/bin/Debug/net6.0/Week9List.pdb
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9Lists.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9Lists.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9Lists.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9Lists.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9List.dll
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/refint/Week9List.dll
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9List.pdb
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/Week9Lists.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/Week9List/obj/Debug/net6.0/ref/Week9List.dll
